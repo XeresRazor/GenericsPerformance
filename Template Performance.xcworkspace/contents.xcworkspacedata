@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:TemplatedVector/TemplatedVector.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:FloatVector/FloatVector.xcodeproj">
+      location = "group:VectorTest/VectorTest.xcodeproj">
    </FileRef>
 </Workspace>
